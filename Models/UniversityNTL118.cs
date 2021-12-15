@@ -9,6 +9,7 @@ namespace NguyenThiLuong118.Models
         [Key]
         [Display(Name = "Mã Trường Đại Học")]
         [StringLength(20)]
+        [Required]
 
         public string UniversityId { get; set; }
         [Display(Name = "Tên Trường Đại Học")]

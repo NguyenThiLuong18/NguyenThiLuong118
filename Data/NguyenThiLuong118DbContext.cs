@@ -13,4 +13,6 @@ using NguyenThiLuong118.Models;
         }
 
         public DbSet<NguyenThiLuong118.Models.UniversityNTL118> UniversityNTL118 { get; set; }
+
+        public DbSet<NguyenThiLuong118.Models.NTL1118> NTL1118 { get; set; }
     }

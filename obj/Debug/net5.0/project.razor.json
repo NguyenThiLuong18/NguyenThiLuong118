@@ -15619,8 +15619,23 @@
   "RootNamespace": "NguyenThiLuong118",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\NTL1118\\Create.cshtml",
+      "TargetPath": "Views\\NTL1118\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\UniversityNTL118\\Edit.cshtml",
       "TargetPath": "Views\\UniversityNTL118\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\NTL1118\\Edit.cshtml",
+      "TargetPath": "Views\\NTL1118\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\NTL1118\\Index.cshtml",
+      "TargetPath": "Views\\NTL1118\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15641,6 +15656,11 @@
     {
       "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\NTL1118\\Delete.cshtml",
+      "TargetPath": "Views\\NTL1118\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15671,6 +15691,11 @@
     {
       "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Luong\\Desktop\\NguyenThiLuong118\\Views\\NTL1118\\Details.cshtml",
+      "TargetPath": "Views\\NTL1118\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

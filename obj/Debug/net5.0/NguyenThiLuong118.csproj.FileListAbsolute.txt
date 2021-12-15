@@ -170,3 +170,8 @@ C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\University
 C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\UniversityNTL118\Details.cshtml.g.cs
 C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\UniversityNTL118\Edit.cshtml.g.cs
 C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\UniversityNTL118\Index.cshtml.g.cs
+C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\NTL1118\Create.cshtml.g.cs
+C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\NTL1118\Delete.cshtml.g.cs
+C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\NTL1118\Details.cshtml.g.cs
+C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\NTL1118\Edit.cshtml.g.cs
+C:\Users\Luong\Desktop\NguyenThiLuong118\obj\Debug\net5.0\Razor\Views\NTL1118\Index.cshtml.g.cs
