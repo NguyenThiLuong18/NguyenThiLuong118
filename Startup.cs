@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
 
 namespace NguyenThiLuong118
 {
@@ -24,6 +25,9 @@ namespace NguyenThiLuong118
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<NguyenThiLuong118DbContext>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("NguyenThiLuong118DbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
