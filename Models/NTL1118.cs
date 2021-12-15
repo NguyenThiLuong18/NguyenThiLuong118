@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace NguyenThiLuong118.Models
@@ -18,6 +19,5 @@ namespace NguyenThiLuong118.Models
          [Display(Name = "Giới tính")]
          [Required]
         public bool NTLGender {get; set;}
-
     }
 }
